@@ -1,17 +1,18 @@
-#Bandit Level 9 → Level 10
-##Objective
+# Bandit Level 9 → Level 10
+## Objective
 
 Find readable text containing =.
 
-##Commands Used
+## Commands Used
 strings data.txt | grep =
 
-##Explanation
+## Explanation
 
 Extracts readable strings from binary data.
 
-##Result
+## Result
 
 Learned string extraction.
+
 
 Flag:4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
