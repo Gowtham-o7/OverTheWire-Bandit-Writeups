@@ -1,18 +1,19 @@
-#Bandit Level 1 → Level 2
+# Bandit Level 1 → Level 2
 
-##Objective
+## Objective
 
   Read a file named -.
 
-##Commands Used
+## Commands Used
    cat ./-
 
-##Explanation
+## Explanation
 
    The file name starts with -, so ./ is used to reference it properly.
 
-##Outcome
+## Outcome
 
   Learned how to handle special filenames.
+
 
   Flag: bandit1_password_here
