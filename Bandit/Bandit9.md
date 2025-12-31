@@ -1,17 +1,18 @@
-#Bandit Level 8 → Level 9
-##Objective
+# Bandit Level 8 → Level 9
+## Objective
 
 Find the only line that occurs once.
 
-##Commands Used
+## Commands Used
 sort data.txt | uniq -u
 
-##Explanation
+## Explanation
 
 Sorting allows uniq to find unique entries.
 
-##Result
+## Result
 
 Learned filtering unique data.
+
 
 Flag:4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
