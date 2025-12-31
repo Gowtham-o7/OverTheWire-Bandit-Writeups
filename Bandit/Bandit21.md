@@ -1,20 +1,21 @@
-\#Bandit Level 20 → Level 21
-##Objective
+# Bandit Level 20 → Level 21
+## Objective
 
 Use cron jobs to get password.
 
-\##Commands Used
+## Commands Used
 cat /etc/cron.d/\*
 
-\##Explanation
+## Explanation
 
 A cron job executed scripts automatically.
 
 By reading the cron configuration, I located where the password was stored.
 
-\##Result
+## Result
 
 Learned scheduled task behavior.
 
 Flag:EeoULMCra2q0dSkYj561DX7s1CpBuOBt
+
 
