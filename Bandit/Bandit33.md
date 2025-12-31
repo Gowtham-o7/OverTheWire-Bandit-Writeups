@@ -1,21 +1,22 @@
-\#Bandit Level 32 → Level 33
-##Objective
+# Bandit Level 32 → Level 33
+## Objective
 
 Escape restricted shell.
 
-\##Commands Used
+## Commands Used
 $0
 /bin/bash
 
-\##Explanation
+## Explanation
 
 The shell was restricted again.
 
 By invoking a new shell process, I escaped the restriction.
 
-\##Result
+## Result
 
 Learned restricted shell escape.
 
 Flag:tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
+
 
