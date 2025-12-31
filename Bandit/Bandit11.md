@@ -1,17 +1,18 @@
-#Bandit Level 10 → Level 11
-##Objective
+# Bandit Level 10 → Level 11
+## Objective
 
 Decode a Base64 encoded file.
 
-##Commands Used
+## Commands Used
 base64 -d data.txt
 
-##Explanation
+## Explanation
 
 Decodes Base64-encoded content.
 
-##Result
+## Result
 
 Learned Base64 decoding.
+
 
 Flag:dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
